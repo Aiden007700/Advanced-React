@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 const NavStyles = styled.ul`
   margin: 0;
@@ -12,6 +12,7 @@ const NavStyles = styled.ul`
     display: flex;
     align-items: center;
     position: relative;
+    text-decoration: none !important;
     text-transform: uppercase;
     font-weight: 900;
     font-size: 1em;
@@ -23,9 +24,9 @@ const NavStyles = styled.ul`
       padding: 0 10px;
     }
     &:before {
-      content: '';
+      content: "";
       width: 2px;
-      background: var(--lightGray);
+      background: var(--lightGrey);
       height: 100%;
       left: 0;
       position: absolute;
@@ -36,7 +37,7 @@ const NavStyles = styled.ul`
     &:after {
       height: 2px;
       background: red;
-      content: '';
+      content: "";
       width: 0;
       position: absolute;
       transform: translateX(-50%);
@@ -57,7 +58,7 @@ const NavStyles = styled.ul`
     }
   }
   @media (max-width: 1300px) {
-    border-top: 1px solid var(--lightGray);
+    border-top: 1px solid var(--lightGrey);
     width: 100%;
     justify-content: center;
     font-size: 1.5rem;

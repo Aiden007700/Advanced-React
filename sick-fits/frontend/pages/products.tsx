@@ -1,8 +1,9 @@
 import Page from "../components/Page";
+import Products from "../components/Products";
 
 const ProductsPage = () => (
   <>
-    <p>hello</p>
+    <Products />
   </>
 );
 

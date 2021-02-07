@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c93e9f68-70aa-4be2-9954-ff44358867e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/schemas/ProductImage.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/schemas/User.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/Products.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/lib/formatMoney.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/keystone.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/keystone.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/schemas/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/backend/schemas/Product.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/Nav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Nav.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/styles/NavStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/styles/NavStyles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/lib/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Product.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/lib/withData.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/lib/withData.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/products.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/products.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +45,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\aiden\AppData\Roaming\npm\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="C:\Users\aiden\webdev\Advanced-React\sick-fits\backend\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -54,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612634010663</updated>
       <workItem from="1612634011753" duration="14010000" />
-      <workItem from="1612707566849" duration="3614000" />
+      <workItem from="1612707566849" duration="9909000" />
     </task>
     <servers />
   </component>
