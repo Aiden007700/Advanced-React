@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c93e9f68-70aa-4be2-9954-ff44358867e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/Nav.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/Page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pages/_app.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pages/_document.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pages/account.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pages/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pages/orders.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pages/products.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pages/sell.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/types/next-env.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/schemas/ProductImage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/schemas/User.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/keystone.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/keystone.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/schemas/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/backend/schemas/Product.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +36,12 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\aiden\AppData\Roaming\npm\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
-    <property name="ts.external.directory.path" value="C:\Users\aiden\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\203.5981.135\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="C:\Users\aiden\webdev\Advanced-React\sick-fits\backend\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aiden\webdev\Advanced-React\sick-fits\backend" />
       <recent name="C:\Users\aiden\webdev\Advanced-React\sick-fits\frontend\types" />
     </key>
   </component>
@@ -62,7 +53,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612634010663</updated>
-      <workItem from="1612634011753" duration="10489000" />
+      <workItem from="1612634011753" duration="14010000" />
+      <workItem from="1612707566849" duration="3614000" />
     </task>
     <servers />
   </component>
@@ -79,6 +71,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
