@@ -5,18 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c93e9f68-70aa-4be2-9954-ff44358867e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/components/Products.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/formatMoney.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/CreateProduct.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/SingleProduct.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/lib/useForm.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/pages/product/[id].tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Nav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Nav.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/styles/NavStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/styles/NavStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/lib/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Product.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/lib/withData.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/lib/withData.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/Products.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Products.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/account.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/account.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/pages/products.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/products.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/sell.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/sell.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1612634010663</updated>
       <workItem from="1612634011753" duration="14010000" />
-      <workItem from="1612707566849" duration="9909000" />
+      <workItem from="1612707566849" duration="10579000" />
+      <workItem from="1612810328740" duration="5746000" />
     </task>
     <servers />
   </component>
