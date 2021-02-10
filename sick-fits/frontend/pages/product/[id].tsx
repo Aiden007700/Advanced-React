@@ -5,7 +5,7 @@ const SingleProductPage = () => {
   const router = useRouter();
   const { id } = router.query;
 
-  return <SingleProduct id={id} />;
+  return <SingleProduct id={id as string} />;
 };
 
 export default SingleProductPage;
